@@ -3,8 +3,7 @@ import React from "react";
 const ExpenseTable = ({ expenses, onDeleteExpense }) => {
   return (
     <div className="overflow-x-auto mt-4">
-      <h2>My Expenses</h2>
-      <p>My Expenssssssssssssssssssssssssssssssss</p>
+      
       <table className="min-w-full border-collapse border border-gray-300">
         <thead>
           <tr className="bg-gray-100">
